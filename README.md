@@ -1,0 +1,2 @@
+"# qrCodeReader" 
+"# qrCodeReader" 
